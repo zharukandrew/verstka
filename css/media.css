@@ -1,0 +1,82 @@
+@media (max-width:767px) {
+  .header-title {
+    font-size: 32px!important;
+}
+  .header-subtitle {
+    font-size: 14px;
+    margin-top: 10px;
+
+  }
+  .portfolio-header{
+      font-size: 32px!important;
+  }
+  .portfolio-card-wrapper{
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    justify-content: center!important;
+   
+  }
+  .card{
+    width: 290px!important;
+  }
+  .card-img{
+     width: 260px!important;
+  }
+  .card-title{
+      font-size: 18px!important;
+  }
+  .card-link{
+    font-size: 18px!important;
+  }
+  .card p{
+    font-size: 14px!important;
+  }
+  .footer-row {
+    display: flex;
+    flex-direction: column-reverse!important;
+    gap: 30px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: flex-end!important;
+}
+.footer-contacts p{
+  font-size: 14px!important;
+  width: 290px!important;
+  text-align: center!important;
+}
+.footer-icons{
+  font-size: 14px!important;
+}
+.footer-copiright-name{
+  font-size: 18px!important;
+}
+.footer-copiright-name p{
+  font-size: 18px!important;
+}
+.footer-button{
+  font-size: 16px !important;
+}
+/*forest-travel*/
+.section__title{
+  font-size: 28px!important;
+  width: 290px!important;;
+}
+.section__img{
+
+  width: 290px!important;
+  height: 235px!important;
+}
+.section__page-text{
+  font-size: 16px!important;
+  width: 290px!important;
+}
+.section__page-page{
+  font-size: 16px!important;
+  margin-bottom: 15px!important;
+}
+.img-active{
+  margin-left: 80px!important;
+}
+/*forest-travel*/
+}
